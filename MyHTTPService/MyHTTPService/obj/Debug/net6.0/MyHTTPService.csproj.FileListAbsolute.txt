@@ -1,0 +1,16 @@
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\bin\Debug\net6.0\MyHTTPService.exe
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\bin\Debug\net6.0\MyHTTPService.deps.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\bin\Debug\net6.0\MyHTTPService.runtimeconfig.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\bin\Debug\net6.0\MyHTTPService.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\bin\Debug\net6.0\MyHTTPService.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.csproj.AssemblyReference.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.AssemblyInfoInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.AssemblyInfo.cs
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.csproj.CoreCompileInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\refint\MyHTTPService.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\MyHTTPService.genruntimeconfig.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\obj\Debug\net6.0\ref\MyHTTPService.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService\MyHTTPService\bin\Debug\net6.0\appsetting.json
