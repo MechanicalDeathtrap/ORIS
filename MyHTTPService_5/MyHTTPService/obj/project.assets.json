@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService\\MyHTTPService\\MyHTTPService.csproj",
+      "projectUniqueName": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
       "projectName": "MyHTTPService",
-      "projectPath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService\\MyHTTPService\\MyHTTPService.csproj",
+      "projectPath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
       "packagesPath": "C:\\Users\\korik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService\\MyHTTPService\\obj\\",
+      "outputPath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\korik\\AppData\\Roaming\\NuGet\\NuGet.Config",
