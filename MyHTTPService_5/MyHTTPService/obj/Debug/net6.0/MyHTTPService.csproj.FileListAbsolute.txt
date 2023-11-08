@@ -30,3 +30,5 @@ C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService_5\MyHTT
 C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService_5\MyHTTPService\obj\Debug\net6.0\MyHTTPService.pdb
 C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService_5\MyHTTPService\obj\Debug\net6.0\MyHTTPService.genruntimeconfig.cache
 C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService_5\MyHTTPService\obj\Debug\net6.0\ref\MyHTTPService.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService_5\MyHTTPService\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHTTPService_5\MyHTTPService\obj\Debug\net6.0\MyHTTPService.csproj.CopyComplete

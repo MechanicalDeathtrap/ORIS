@@ -1,4 +1,8 @@
 {
-  "Port": 2323,
-  "Address": "http://127.0.0.1"
+  "Port": 2324,
+  "Address": "http://127.0.0.1",
+  "EmailSender": "korikova-04@mail.ru",
+  "PasswordSender": "QjRsAuBNsbqGBzuCwit9",
+  "SmtpServerHost": "smtp.mail.ru",
+  "SmtpServerPort": 587
 }

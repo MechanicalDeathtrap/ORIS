@@ -10,6 +10,7 @@
     <link href="https://db.onlinewebfonts.com/c/042f08aaf8a34dc8799a18600c3b08fb?family=Dodo+Rounded+Bold"
         rel="stylesheet">
     <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="icon" href="./images/favicon.ico">
 </head>
 
 
@@ -117,7 +118,7 @@
                 <div class="heroes-left">
                     <h1 class="heroes-title">Для нас важен каждый</h1>
 
-                    <img src="./images/Снимок экрана 2023-09-06 134349.png" alt="heroes image" class="heroes-image">
+                    <img src="./images/dodo1.png" alt="heroes image" class="heroes-image">
                 </div>
 
                 <p class="heroes-description">
@@ -134,7 +135,7 @@
         <div class="heroes-bottom container">
             <h2 class="hero-title">5 личных видео-историй о Додо изнутри </h2>
             <div class="heroes-slides">
-                <img src="./images/Снимок экрана 2023-09-13 221801.png" alt="slides" class="heroes-slide-image">
+                <img src="./images/dodo2.png" alt="slides" class="heroes-slide-image">
             </div>
             <div class="heroes-buttons">
                 <div class="arrow-button">
@@ -353,7 +354,7 @@
         <section class="forms">
             <div class="container form-container">
                 <h2 class="form-title">Заполните анкету</h2>
-                <form class="form-itself">
+                <form class="form-itself" method="post" action="/dodo-email" enctype="text/plain">
                     <div class="form-inners">
 
                         <div class="form-left">
@@ -396,31 +397,31 @@
 
                             <div class="form">
                                 <div class="input">
-                                    <input type="text" class="form-input" placeholder="Имя" required="required">
+                                    <input type="text" class="form-input" placeholder="Имя" required="required" name="InputName">
                                 </div>
                             </div>
 
                             <div class="form">
                                 <div class="input">
-                                    <input type="text" class="form-input" placeholder="Фамилия" required="required">
+                                    <input type="text" class="form-input" placeholder="Фамилия" required="required" name="InputLastName">
                                 </div>
                             </div>
 
                             <div class="form">
                                 <div class="input">
                                     <input type="text" class="form-input birthdate" placeholder="День рождения"
-                                        required="required">
+                                        required="required" name="InputBirthDay">
                                 </div>
                                 <div class="input">
                                     <input type="tel" class="form-input telephone" placeholder="Телефон"
-                                        required="required">
+                                        required="required" name="InputTelephone">
                                 </div>
                             </div>
 
                             <div class="form-bottom">
                                 <div class="input">
                                     <input type="text" class="form-input" placeholder="Ссылка на соцсети"
-                                        required="required">
+                                        required="required" name="InputMediaLinks">
                                 </div>
                                 <span class="form-info">По желанию. На случай, если не дозвонимся по телефону.</span>
                             </div>
@@ -438,9 +439,8 @@
                             </span>
                         </label>
                     </div>
-                    <form action="" method="POST">
-                        <button name="dodo-email" type="submit" class="form-button">Отправить</button>                        
-                    </form>
+                    <button type="submit" class="form-button">Отправить</button>                        
+
                 </form>
             </div>
         </section>
@@ -654,7 +654,7 @@
                         <li class="footer-item-app">
                             <a
                                 href="https://app.appsflyer.com/ru.dodopizza.app?af_ad=icon&pid=dodopizza.site&af_click_lookback=7d&c=web">
-                                <img width="142" height="45" src="./images/Снимок экрана 2023-09-07 182626.png"
+                                <img width="142" height="45" src="./images/googlePlay.png"
                                     alt="Приложение Додо">
                             </a>
                         </li>
@@ -664,7 +664,7 @@
                         <li class="footer-item-app">
                             <a href="https://app.appsflyer.com/id894649641?af_ad=icon&amp;pid=dodopizza.site&amp;af_click_lookback=7d&amp;c=web"
                                 target="_blank" rel="noopener noreferrer" data-v-16e83782="">
-                                <img width="139" height="45" src="./images/Снимок экрана 2023-09-07 183202.png"
+                                <img width="139" height="45" src="./images/appStore.png"
                                     alt="Приложение Додо" loading="lazy" data-v-16e83782="">
                             </a>
                         </li>
@@ -676,7 +676,7 @@
                 <ul class="footer-list-social">
                     <li class="list-social-item">
                         <a href="https://vk.com/dodo" target="_blank" style="text-decoration: none;">
-                            <img src="./images/Снимок экрана 2023-09-07 194952.png" alt="Dodo vk" class="social-icon">
+                            <img src="./images/vk.png" alt="Dodo vk" class="social-icon">
                             <span class="social-text">Вконтакте</span>
                         </a>
                     </li>
@@ -684,7 +684,7 @@
                 <ul class="footer-list-social">
                     <li class="list-social-item">
                         <a href="https://www.youtube.com/dodomovie" target="_blank" style="text-decoration: none;">
-                            <img src="./images/Снимок экрана 2023-09-07 195351.png" alt="Dodo youtube" class="social-icon">
+                            <img src="./images/youtube.png" alt="Dodo youtube" class="social-icon">
                             <span class="social-text">Youtube</span>
                         </a>
                     </li>
@@ -694,7 +694,7 @@
 
             <div class="footer-bottom">
                 <div class="copyright">
-                    <img src="./images/Снимок экрана 2023-09-09 221908.png" alt="Додо пицца" class="copyright-image">
+                    <img src="./images/dodo.png" alt="Додо пицца" class="copyright-image">
                     <span class="copyright-text">© 2023</span>
                 </div>
 
