@@ -1,0 +1,14 @@
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\bin\Debug\net6.0\MyTemplates.exe
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\bin\Debug\net6.0\MyTemplates.deps.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\bin\Debug\net6.0\MyTemplates.runtimeconfig.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\bin\Debug\net6.0\MyTemplates.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\bin\Debug\net6.0\MyTemplates.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.AssemblyInfoInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.AssemblyInfo.cs
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.csproj.CoreCompileInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\refint\MyTemplates.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\MyTemplates.genruntimeconfig.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyTemplates\MyTemplates\obj\Debug\net6.0\ref\MyTemplates.dll
