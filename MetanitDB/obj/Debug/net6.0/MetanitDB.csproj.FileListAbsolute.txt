@@ -1,0 +1,14 @@
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\bin\Debug\net6.0\MetanitDB.exe
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\bin\Debug\net6.0\MetanitDB.deps.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\bin\Debug\net6.0\MetanitDB.runtimeconfig.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\bin\Debug\net6.0\MetanitDB.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\bin\Debug\net6.0\MetanitDB.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.AssemblyInfoInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.AssemblyInfo.cs
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.csproj.CoreCompileInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\refint\MetanitDB.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\MetanitDB.genruntimeconfig.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MetanitDB\MetanitDB\obj\Debug\net6.0\ref\MetanitDB.dll
