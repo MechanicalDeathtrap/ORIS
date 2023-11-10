@@ -1,0 +1,15 @@
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\bin\Debug\net6.0\MyHttpServer.exe
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\bin\Debug\net6.0\MyHttpServer.deps.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\bin\Debug\net6.0\MyHttpServer.runtimeconfig.json
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\bin\Debug\net6.0\MyHttpServer.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\bin\Debug\net6.0\MyHttpServer.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.csproj.AssemblyReference.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.AssemblyInfoInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.AssemblyInfo.cs
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\refint\MyHttpServer.dll
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.pdb
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\MyHttpServer.genruntimeconfig.cache
+C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\obj\Debug\net6.0\ref\MyHttpServer.dll
