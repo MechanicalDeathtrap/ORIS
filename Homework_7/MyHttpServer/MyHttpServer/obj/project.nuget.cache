@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQpbDHIN7WU0WnDiFKqjcJBB+XJnHeJjhcmzJ4D7hriMJPatzAtAGDC4NrsnKB+nZEh4sOgIkSAyCn8DfbLwEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\korik\\source\\repos\\ORIS\\Homework_6\\MyHttpServer\\MyHttpServer\\MyHttpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
