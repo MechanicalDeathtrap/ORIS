@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyHttpServer
-build_property.ProjectDir = C:\Users\korik\source\repos\MechanicalDeathtrap\ReposCsNew\MyHttpServer\MyHttpServer\
+build_property.ProjectDir = C:\Users\korik\source\repos\ORIS\MyHttpServer\MyHttpServer\

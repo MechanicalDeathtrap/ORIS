@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VNFmk5749shp/RnwUx9vwni+wPl0oBVY8KmAhMkZkug5iwqFzrXh93cysmjJ3LtXJuJdCKQS85USX3Cux6BnTA==",
+  "dgSpecHash": "1/4CpnGFzNM9fXI0B+EFQWGY0yfudK47PUWemujXp1iFmcsTAz9C6di6VlvzGbebS4Ha3djUAlkHrvxJuP5krw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
+  "projectFilePath": "C:\\Users\\korik\\Source\\Repos\\ORIS\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\korik\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
   ],

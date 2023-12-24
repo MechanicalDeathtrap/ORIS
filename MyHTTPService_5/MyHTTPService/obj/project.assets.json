@@ -73,19 +73,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\korik\\.nuget\\packages\\": {}
+    "C:\\Users\\korik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
+      "projectUniqueName": "C:\\Users\\korik\\Source\\Repos\\ORIS\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
       "projectName": "MyHTTPService",
-      "projectPath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
+      "projectPath": "C:\\Users\\korik\\Source\\Repos\\ORIS\\MyHTTPService_5\\MyHTTPService\\MyHTTPService.csproj",
       "packagesPath": "C:\\Users\\korik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\korik\\source\\repos\\MechanicalDeathtrap\\ReposCsNew\\MyHTTPService_5\\MyHTTPService\\obj\\",
+      "outputPath": "C:\\Users\\korik\\Source\\Repos\\ORIS\\MyHTTPService_5\\MyHTTPService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\korik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -93,6 +98,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
